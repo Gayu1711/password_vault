@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2026-06-20 17:50:59",
+    "event": "VAULT_WIPED",
+    "detail": "Forgot-password flow \u2014 all entries deleted"
+  },
+  {
+    "timestamp": "2026-06-20 17:51:06",
+    "event": "VAULT_CREATED",
+    "detail": "New vault initialised"
+  },
+  {
+    "timestamp": "2026-06-20 17:51:28",
+    "event": "ENTRIES_VIEWED",
+    "detail": "0 entries viewed"
+  },
+  {
+    "timestamp": "2026-06-20 17:51:33",
+    "event": "PASSWORD_GENERATED",
+    "detail": "Random password generated"
+  },
+  {
+    "timestamp": "2026-06-20 17:51:35",
+    "event": "PASSWORD_GENERATED",
+    "detail": "Password regenerated"
+  },
+  {
+    "timestamp": "2026-06-20 17:51:36",
+    "event": "PASSWORD_GENERATED",
+    "detail": "Password regenerated"
+  },
+  {
+    "timestamp": "2026-06-20 17:51:36",
+    "event": "PASSWORD_GENERATED",
+    "detail": "Password regenerated"
+  },
+  {
+    "timestamp": "2026-06-20 17:58:47",
+    "event": "LOGIN_FAILED",
+    "detail": "Incorrect password or corrupted vault"
+  },
+  {
+    "timestamp": "2026-06-20 17:58:51",
+    "event": "LOGIN_FAILED",
+    "detail": "Incorrect password or corrupted vault"
+  },
+  {
+    "timestamp": "2026-06-20 17:58:54",
+    "event": "VAULT_WIPED",
+    "detail": "Forgot-password flow \u2014 all entries deleted"
+  },
+  {
+    "timestamp": "2026-06-20 17:58:58",
+    "event": "VAULT_CREATED",
+    "detail": "New vault initialised"
+  },
+  {
+    "timestamp": "2026-06-20 17:59:01",
+    "event": "LOGOUT",
+    "detail": "Session ended"
+  },
+  {
+    "timestamp": "2026-06-20 17:59:04",
+    "event": "LOGIN_FAILED",
+    "detail": "Incorrect password or corrupted vault"
+  },
+  {
+    "timestamp": "2026-06-20 18:00:16",
+    "event": "LOGIN_FAILED",
+    "detail": "Incorrect password or corrupted vault"
+  },
+  {
+    "timestamp": "2026-06-20 18:00:19",
+    "event": "VAULT_WIPED",
+    "detail": "Forgot-password flow \u2014 all entries deleted"
+  },
+  {
+    "timestamp": "2026-06-20 18:00:23",
+    "event": "VAULT_CREATED",
+    "detail": "New vault initialised"
+  },
+  {
+    "timestamp": "2026-06-20 18:00:25",
+    "event": "LOGOUT",
+    "detail": "Session ended"
+  },
+  {
+    "timestamp": "2026-06-20 18:00:27",
+    "event": "LOGIN_SUCCESS",
+    "detail": "Vault unlocked successfully"
+  }
+]
